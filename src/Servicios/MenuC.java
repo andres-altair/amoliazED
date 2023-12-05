@@ -3,7 +3,7 @@ package Servicios;
 import java.util.Scanner;
 
 /*
- * implemetacion que implementa a ala interfaz MenuI
+ * implemetacion que implementa a a la interfaz MenuI
  * @amd 051223
  */
 public class MenuC implements MenuI 

@@ -3,10 +3,11 @@ package Servicios;
 import java.util.Scanner;
 
 /*
- * implemetacion que implementa a ala interfaz OperativaUI
+ * implemetacion que implementa a a la interfaz OperativaUI
  * @amd 051223
  */
-public class OperativaC implements OperativaI {
+public class OperativaC implements OperativaI 
+{
 	Scanner sc = new Scanner(System.in);
 
 	@Override
